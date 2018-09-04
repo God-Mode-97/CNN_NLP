@@ -1,5 +1,5 @@
 # CNN_NLP
-Natural Language Processinng using CNN for catagorizing of toxic and  non-toxic comments.
+Natural Language Processinng using CNN for catagorizing toxic and  non-toxic comments.
 
 Download link for pre-trained model embeddings: https://nlp.stanford.edu/data/glove.6B.zip
 
